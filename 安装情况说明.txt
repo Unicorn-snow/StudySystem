@@ -1,0 +1,13 @@
+1.mysql版本为Community Server 5.7.29
+
+2.Java开发环境：eclipse + jdk 1.8
+
+3.代码由Java语言编写
+
+4.下载代码到eclipse即可运行，若编译出错，请检查:
+
+（1）jdk是否为1.8；
+
+（2）jdbc是否合适（连接mysql和eclipse）；
+
+5.若始终无法解决，请发邮件至1456123372@qq.com
